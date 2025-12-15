@@ -1,2 +1,2 @@
 # Statistical-Climate-Trend-Analysis
-Univeristy Group Project
+University Group Project
